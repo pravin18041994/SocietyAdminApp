@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "968224315225",
+    "firebase_url": "https://societyapp-ef4ff.firebaseio.com",
+    "project_id": "societyapp-ef4ff",
+    "storage_bucket": "societyapp-ef4ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968224315225:android:536b350a7a75c32ad85e48",
+        "android_client_info": {
+          "package_name": "com.adnantjeexx.dashboarduidesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968224315225-9hr6jksvb9c9ob3vrjosun7grgug85g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnmkL9bKaXjbagjsHVeFWXJn-FDWUrR1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968224315225-9hr6jksvb9c9ob3vrjosun7grgug85g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
